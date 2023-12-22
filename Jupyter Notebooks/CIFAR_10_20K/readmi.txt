@@ -1,0 +1,5 @@
+**Had to add tihs filder into drive folder as github doesn't accept large files.
+
+> The folder contains "cifar10_train.npz", "cifar10_val.npz" and "cifar10_test.npz" files.
+> Above data files and Resnet50 optuna trained files are available at "https://drive.google.com/drive/folders/16nLo4vAecD6kphYx3Pa5DYE0vciyiZpD?usp=sharing". 
+> The data files used were the same(I think) for both the models.

@@ -10,4 +10,4 @@ improve validation loss. The results in the paper show that the linear program
 consistently boosts model quality in validation and test performance for all the
 considered cases.
 >
-> This repository contains the initial working code for a hyper local search algorithm. For detailed "readmi" file to deal with the code, see the folder "Example Jupyter Notebooks" which contain detailed directions and, data and pre-trained models to be directly usable for local tuning.
+> This repository contains the initial working code for a hyper local search algorithm. For detailed "readmi" file to deal with the code, see the folder "Jupyter Notebooks" which has example notebooks and contains detailed directions. The folder also has data and optuna trained models to be directly usable for local tuning.
